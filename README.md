@@ -1,2 +1,3 @@
 # hello_world
-my first git repository
+This is my first git repository, nothing useful , only for demo
+chengpandyx@126.com
